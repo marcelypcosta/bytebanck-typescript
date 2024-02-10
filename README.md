@@ -1,1 +1,3 @@
-# bytebanck-typescript
+# Bytebank
+
+Aplicação para o cliente Bytebank, que permitirá registrar transações em uma conta, como transferências, depósitos e pagamentos de boletos...
